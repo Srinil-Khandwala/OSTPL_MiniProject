@@ -1,4 +1,4 @@
-# OSTPL_MiniProject
+
 Student Management System in Python <br>
 _Name_ - Srinil Khandwala<br>
 _Roll no_- 1911023<br>
